@@ -55,7 +55,7 @@ const about = {
   imageLink: require("../editable-stuff/bishal.jpg"),
   imageSize: 375,
   message:
-    "My name is Bishal Ranjan Swain. I am a Global Korea Scholarship recipient. I am currently enrolled in Language Education Center of Chonnam National University for Korean language and training. I will be pursuing my PhD in Computer Vision and Pattern Recognition Lab of Kumoh National Institute of Technology. I have a keen interest in Artificial Intelligence having special attention to Deep Learning. I would like to apply my knowledge in the domain to solve key bottlenecks and ensure a progessive output.",
+    "My name is Bishal Ranjan Swain. I am currently pursuing my PhD in Computer Vision and Pattern Recognition Lab of Kumoh National Institute of Technology. I currently working on Allergic Rhinitis; visit GitHub for more information. I have a keen interest in Artificial Intelligence having special attention to Deep Learning. I would like to apply my knowledge in the domain to solve key bottlenecks and ensure a progessive output.",
   resume: "https://drive.google.com/file/d/1J2pBdkQZBPjK3kXI5xEn-YM79LXFWbc9/view?usp=sharing",
 };
 
